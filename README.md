@@ -22,18 +22,21 @@ Self-taught developer actively looking for my first frontend developer opportuni
 
 | Project | Description | Tech |
 |---|---|---|
-| [Portfolio](https://github.com/MOHSIN777333/mohsin-portfoloi) | Personal portfolio website | React, Tailwind CSS |
-
+| [Portfolio](https://my-portfolio-ten-wheat-46.vercel.app/) | Personal portfolio website | React, Tailwind CSS |
+| [Quiz App](https://github.com/MOHSIN777333/Projects-HTML-CSS-JAVASCRIPT-) | Interactive quiz application | HTML, CSS, JavaScript |
+| [Color Palette](https://github.com/MOHSIN777333/Projects-HTML-CSS-JAVASCRIPT-) | Color palette generator tool | HTML, CSS, JavaScript |
 
 ---
 
 ## 📊 GitHub Stats
 
-![Mohsin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MOHSIN777333&show_icons=true&theme=react&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=MOHSIN777333&show_icons=true&theme=react&hide_border=true&count_private=true" alt="Mohsin's GitHub Stats" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MOHSIN777333&layout=compact&theme=react&hide_border=true" alt="Top Languages" />
 
 ---
 
 ## 📬 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/mohsinali-frontend?utm_source=share_via&utm_content=profile&utm_medium=member_android])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohsinali-frontend)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohsinali031332@gmail.com)
